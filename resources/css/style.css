@@ -1,11 +1,13 @@
 html {
   font-family: Helvetica;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #header {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-
   text-align: center;
+
 }
 
 h1 {
@@ -46,4 +48,12 @@ li {
 p.process {
   text-align: center;
   font-size: 14px;
+}
+
+p.designed {
+  text-align:center;
+  color:white;
+  font-size:23px;
+  font-weight:bold;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
