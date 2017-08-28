@@ -57,3 +57,18 @@ p.designed {
   font-weight:bold;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
+
+p.footer {
+  background-color: dimgray;
+  color:white;
+  font-size: 23px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.copyright {
+  font-size: 11px;
+  color: white;
+}
